@@ -1,0 +1,36 @@
+# Quartus build files
+output_files/
+db/
+incremental_db/
+simulation/
+*.sof
+*.pof
+*.jic
+*.qws
+*.smsg
+*.rpt
+*.summary
+*.syr
+*.qdf
+*.qsf~
+*.sdc~
+
+# Simulation outputs
+*.vcd
+*.wlf
+*.log
+*.out
+
+# ModelSim/QuestaSim
+work/
+transcript
+vsim.wlf
+*.vstf
+
+# Temporary and IDE files
+*.bak
+*.swp
+*.tmp
+.vscode/
+.DS_Store
+Thumbs.db
