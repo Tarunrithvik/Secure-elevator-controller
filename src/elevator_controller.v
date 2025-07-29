@@ -1,8 +1,6 @@
 ```verilog
 // elevator_controller.v
 // 3-Floor Elevator Controller with Password Access
-// Author: Tarun Rithvik
-// Date: July 2025
 
 module el (
     input clk,
