@@ -1,0 +1,3 @@
+project_open ElevatorControl
+execute_flow -compile
+project_close
